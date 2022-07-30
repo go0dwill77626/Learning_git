@@ -1,1 +1,1 @@
-# Learning_git
+This is a sample text file 
